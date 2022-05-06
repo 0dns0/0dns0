@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0dns0 (minecraft : 0dns)
 - 👀 I’m interested in : minecraft utility mods
 - 🌱 I’m currently learning : java 
-- 💞️ I’m looking to collaborate on :  nothing
+- 💞️ I’m looking to collaborate on :  mc utility mods (i know no java)
 - 📫 How to reach me : discord ---> fridge#8992 
 
 <!---
